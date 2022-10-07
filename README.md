@@ -1,1 +1,1 @@
-<img src="../../images/imgReadme.jpeg" alt="" />
+<img src="/src/components/images/imgReadme.jpeg" alt="" />
